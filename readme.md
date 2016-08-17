@@ -25,8 +25,8 @@ ngRoute is an Angular module that we can use to add routing to our application.
 __There are 3 steps for setting up ngRoute. See if you can remember them.__
 (Don't add any routes yet! Just get ngRoute configured in your app)
 
-1. -
-2. -
+1. -cdn?
+2. -ng-route to app file
 3. -
 
 ## Step 2: Be able to associate different templates with different routes
